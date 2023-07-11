@@ -17,10 +17,14 @@ form{
 div#news details{
     display: flex;
     flex-wrap: nowrap;
+
 }
 div#news{
-    max-width:50px;
+    width:300px;
+    float: left;
+    justify-content: space-evenly;
 }
 img{
-    max-width: 200px;
+    max-width: 240px;
+
 }
