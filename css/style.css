@@ -1,5 +1,16 @@
-nav{
+nav#navbar#contents{
     display: flex;
     flex: content;
+    flex-flow: column;
+}
+li{
     flex-flow: row;
+}
+
+body {
+    background-color: aqua;
+
+}
+form{
+    size: 440px;
 }
