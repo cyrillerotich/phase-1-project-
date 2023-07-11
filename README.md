@@ -50,7 +50,11 @@ Technologies used in the project include:
 
 # Deployment Link
 
-Visit [News project](https://github.com/cyrillerotich/phase-1-project-)
+Visit [News project](https://github.com/cyrillerotich/phase-1-project-)\
+
+# Source api
+
+https://newsapi.org/?ref=apilist.fun
 
 
 
