@@ -19,6 +19,8 @@ data for the website https://newsapi.org/?ref=apilist.fun
 
 Link to license : https://github.com/cyrillerotich/phase-1-project-/blob/main/LICENSE
 
+link to live site on git hub 
+
 
 
 
