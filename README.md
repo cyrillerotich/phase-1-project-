@@ -50,7 +50,7 @@ Technologies used in the project include:
 - HTML
 - CSS
 - JSON
-- Public API https://newsapi.org/?ref=apilist.fun
+- Public API https://newsapi.org/?ref=apilist.fun.
 
 # Deployment Link
 
