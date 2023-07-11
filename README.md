@@ -1,6 +1,8 @@
 # phase-1-project-
 PROJECT NAME : news project
-AUTHOR : Cyrille rotich 
+# AUTHOR
+Cyrille Rotich 
+
 PROJECT DESCRIPTION : A news aggregator website where you can browse top headlines from around the world. NewsAPI was used as the API to fetch news from the internet. Find the v1 website here and the updated v2 website here
 
 table of contents:
