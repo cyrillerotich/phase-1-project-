@@ -25,7 +25,8 @@
                     // })
                 })
                 const images = document.createElement(`img`)
-                images.src = data.urlToImage
+                images.src = data.urlToImage 
+                images.src = data.urlToImage ? data.urlToImage : "https://storage.googleapis.com/proudcity/mebanenc/uploads/2021/03/placeholder-image.png"
                 newsDetails.appendChild(images)
                 newsDetails.appendChild(headline)
                 newscontainer.appendChild(newsDetails)
