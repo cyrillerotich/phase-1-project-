@@ -18,6 +18,11 @@ Input search item in the search bar which brings back news about the respective 
 data for the website https://newsapi.org/?ref=apilist.fun
 
 Link to license : https://github.com/cyrillerotich/phase-1-project-/blob/main/LICENSE
+copyright : 
+
+ Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+ Everyone is permitted to copy and distribute verbatim copies
+ of this license document, but changing it is not allowed.
 
 link to live site on git hub 
 
