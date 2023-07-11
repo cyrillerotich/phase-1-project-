@@ -62,6 +62,12 @@ https://newsapi.org/?ref=apilist.fun
 
 Screenshots : "https://markets.businessinsider.com/news/currencies/bitcoin-market-share-sec-regulators-cryptocurrencies-binance-microstrategy-michael-saylor-2023-6",
 
+# license
+
+Licensed under GNUv3. See license
+
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
 
 
 
