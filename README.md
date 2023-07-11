@@ -26,7 +26,7 @@ link to live site on git hub
 - Visual Studio Code, see [here](https://code.visualstudio.com/)
 - Windows Subsystem for Linux (WSL), details [here](https://learn.microsoft.com/en-us/windows/wsl/install)
 - Git
-- Github and GitHub pages [deployment](https://eugenemrg.github.io/phase-1-wk2-code-challenge/)
+- Github and GitHub pages [deployment]https://github.com/cyrillerotich/phase-1-project-
 - Any Modern Web Browser
 
 # Installation
@@ -42,6 +42,12 @@ Technologies used in the project include:
 - CSS
 - JSON
 - Public API https://newsapi.org/?ref=apilist.fun
+
+# Deployment Link
+
+Visit [News project](https://github.com/cyrillerotich/phase-1-project-)
+
+
 
 
 
