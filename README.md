@@ -21,6 +21,27 @@ Link to license : https://github.com/cyrillerotich/phase-1-project-/blob/main/LI
 
 link to live site on git hub 
 
+ Setup Requirements
+
+- Visual Studio Code, see [here](https://code.visualstudio.com/)
+- Windows Subsystem for Linux (WSL), details [here](https://learn.microsoft.com/en-us/windows/wsl/install)
+- Git
+- Github and GitHub pages [deployment](https://eugenemrg.github.io/phase-1-wk2-code-challenge/)
+- Any Modern Web Browser
+
+# Installation
+
+- Clone/Download the code from the repository and run it on any modern web browser with JavaScript enabled
+
+# Technologies
+
+Technologies used in the project include:
+
+- JavaScript
+- HTML
+- CSS
+- JSON
+- Public API https://newsapi.org/?ref=apilist.fun
 
 
 
