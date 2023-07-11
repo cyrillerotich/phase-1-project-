@@ -1,4 +1,4 @@
-nav#navbar#contents{
+nav{
     display: flex;
     flex: content;
     flex-flow: column;
@@ -13,4 +13,14 @@ body {
 }
 form{
     size: 440px;
+}
+div#news details{
+    display: flex;
+    flex-wrap: nowrap;
+}
+div#news{
+    max-width:50px;
+}
+img{
+    max-width: 200px;
 }
