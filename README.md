@@ -56,6 +56,8 @@ Visit [News project](https://github.com/cyrillerotich/phase-1-project-)\
 
 https://newsapi.org/?ref=apilist.fun
 
+Screenshots : "https://markets.businessinsider.com/news/currencies/bitcoin-market-share-sec-regulators-cryptocurrencies-binance-microstrategy-michael-saylor-2023-6",
+
 
 
 
