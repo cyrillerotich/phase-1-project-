@@ -30,7 +30,7 @@ copyright :
 
 link to live site on git hub 
 
- Setup Requirements
+ # Setup Requirements
 
 - Visual Studio Code, see [here](https://code.visualstudio.com/)
 - Windows Subsystem for Linux (WSL), details [here](https://learn.microsoft.com/en-us/windows/wsl/install)
